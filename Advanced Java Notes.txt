@@ -1,0 +1,9 @@
+POJO - Plain Old Java Object
+ORM - Object Relation Method
+Hibernate - it is a ORM
+JPA - Java Persistence API (updated version of Hibernate)
+SE - Standard Edition
+JAR - Java ARchive
+EAR - Enterprise ARchive
+WAR - Web ARchive
+JVM - Java Virtual Machine
