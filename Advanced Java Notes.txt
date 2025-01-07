@@ -1,9 +1,43 @@
 POJO - Plain Old Java Object
 ORM - Object Relation Method
-Hibernate - it is a ORM
-JPA - Java Persistence API (updated version of Hibernate)
+Hibernate - it is an ORM
+JPA - Java Persistence API (an updated version of Hibernate)
 SE - Standard Edition
-JAR - Java ARchive
-EAR - Enterprise ARchive
-WAR - Web ARchive
+JAR - Java Archive
+EAR - Enterprise Archive
+WAR - Web Archive
 JVM - Java Virtual Machine
+
+Part of - Take Attribute
+Type of - Use Inheritance (Recommended)  
+
+Derby Types:-
+
+Serverless
+with server
+
+AWT - it has a fixed Layout
+JFX - Java FX
+Driver - intermediate software that communicates between hardware and software
+ODBC- Open Database connection (Microsoft)
+
+RDBMS  - the tables are related with each other with some relation then it is RDMS
+in mapping cardinalities put a foreign key  to many side
+unique key for columns
+the primary key for the table
+
+steps to connect with the database:-
+-load the driver
+-established the connection using the driver manager
+-statement creation
+-execute the query using the statement
+-(optional) fetch the data from the result side
+-close the statement
+-close the connection
+
+types of statement 
+
+statement
+prepared statement
+callable statement
+

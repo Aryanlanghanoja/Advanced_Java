@@ -1,0 +1,10 @@
+Create a class Library
+5 Entities and 2 Relations 
+min - 5
+max - 7
+
+Assignment 1 : 
+Create User Management System with following Features 
+1) Admin Users can perform add update delete and view of users
+2) End users can perform login and view their details
+
