@@ -8,3 +8,7 @@ Create User Management System with following Features
 1) Admin Users can perform add update delete and view of users
 2) End users can perform login and view their details
 
+Perform User Authentication Based on Database record
+Create a Data Servlet to Develop a functionalities of Simple Calculator
+Create a Data Servlet to Calculate an EMI on Principle amount, ROI, years
+
