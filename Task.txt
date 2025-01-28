@@ -4,11 +4,12 @@ min - 5
 max - 7
 
 Assignment 1 : 
-Create User Management System with following Features 
-1) Admin Users can perform add update delete and view of users
+Create a User Management System with the following Features 
+1) Admin Users can perform add update delete and view users
 2) End users can perform login and view their details
 
 Perform User Authentication Based on Database record
-Create a Data Servlet to Develop a functionalities of Simple Calculator
-Create a Data Servlet to Calculate an EMI on Principle amount, ROI, years
-
+Create a Data Servlet to Develop functionalities of Simple Calculator
+Create a Data Servlet to Calculate an EMI on Principal amount, ROI, years
+Create Servlet 1 2 3 to understand the difference between send redirect request and 
+create a servlet pages home , student list contact us about us
