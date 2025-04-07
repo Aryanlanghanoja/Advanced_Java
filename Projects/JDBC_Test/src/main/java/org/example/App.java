@@ -67,7 +67,7 @@ public class App
     {
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/mu_2425_test" , "root" , "");
+            Connection connection = +.getConnection("jdbc:mysql://localhost:3306/mu_2425_test" , "root" , "");
             Statement statement = connection.createStatement();
 //            String query = "INSERT INTO user_tbl(username, pwd, fullname) VALUES ('ABCDE', 'ABC', 'ABC_1'), ('EFGHI', 'DEF', 'DEF_1')";
 //            int i = statement.executeUpdate(query);

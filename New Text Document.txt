@@ -1,0 +1,81 @@
+package org.example;
+
+import org.example.models.User;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+import javax.persistence.Query;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Scanner;
+
+public class Temp
+{
+    public static void createUser(String name,String email,String pswd){
+        SessionFactory factory = new Configuration().configure().buildSessionFactory();
+        User user = new User();
+        user.setUserName(name);
+        user.setPwd(pswd);
+        user.setEmail(email);
+
+        Session session = factory.openSession();
+        session.beginTransaction();
+        session.save(user);
+
+        session.getTransaction().commit();
+        //commit to save this model in database
+        session.close();
+        factory.close();
+    }
+    public static  void deleteUser(int id){
+        SessionFactory factory = new Configuration().configure().buildSessionFactory();
+        Session session = factory.openSession();
+        session.beginTransaction();
+        User user = session.get(User.class, id);
+        if(user!=null){
+            session.delete(user);
+            System.out.println("user deleted successfully");
+        }else{
+            System.out.println("user not found");
+        }
+        session.getTransaction().commit();
+        session.close();
+        factory.close();
+    }
+
+    public static void main( String[] args )
+    {
+//        createUser("krish","krish@gmail.com","123");
+//        deleteUser(2);
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter Email");
+        String email = sc.nextLine();
+        System.out.println("Enter pswd");
+        String pswd = sc.nextLine();
+
+        SessionFactory factory = new Configuration().configure().buildSessionFactory();
+        Session session = factory.openSession();
+        session.beginTransaction();
+        String hql = "from User where user_email = :email and user_pwd =:pswd";
+        Query query = session.createQuery(hql,User.class);
+        query.setParameter("email",email);
+        query.setParameter("pswd",pswd);
+
+        List users = query.getResultList();
+        Iterator i = users.iterator();
+
+        while(i.hasNext()){
+            User U =  (User)i.next();
+            System.out.println("Your user name is: "+U.getUserName());
+        }
+        session.getTransaction().commit();
+        session.close();
+        factory.close();
+    }
+}
+
+
+//Task
+//wajp which will fetch the user with id1 and update it's password
+//create console based java application which will validate user based on username password if credentials are crrct display full name of user

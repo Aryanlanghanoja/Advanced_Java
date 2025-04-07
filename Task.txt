@@ -13,3 +13,23 @@ Create a Data Servlet to Develop functionalities of Simple Calculator
 Create a Data Servlet to Calculate an EMI on Principal amount, ROI, years
 Create Servlet 1 2 3 to understand the difference between send redirect request and 
 create a servlet pages home , student list contact us about us
+
+Create GST Calculator Using JSP
+Create a Servlet Application that will accept one value from the user and set it as a cookie if the same cookie name is not available. Otherwise, it will append that value to the previous value.
+HTML Login page which accept the Username and password if a user is valid then add it into a cookie and create the dashboard display welcome user if cookie is set if it is not set then print not the valid user.
+
+Create Java web application Using Servlet For Manage blogs
+with following attribute :- Title , content , username , published at , 
+
+create java function which will allow user to search user using username or fullname or both
+
+Crete JSP to get the number n form user and generate n x n 
+
+grading of the students
+75 up - Distinction
+60 up first class
+50 up second class
+35 up pass
+less fail
+
+IOC :- inverse of control.

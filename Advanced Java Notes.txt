@@ -47,3 +47,40 @@ servlet
 - program runs on web  
 - 
 
+
+JSP - Java Server Page or Jakarta Server Page
+
+Cookies
+Hidden Form Field
+URL Rewriting
+HTTP Session
+
+Scope of Variable Available in Servlet
+
+
+Scope  of Variables :-
+
+pages :-
+request :- 
+session :-
+application :- 
+
+
+Create web app which will get one  value from the user for version if session is available we want to display it welcome and value else it will display guest and value and for logout page it will display bye and that value.
+
+default buffer size is 8KB
+
+create a JSP which will content header part name header.jsp  create another jsp which is footer.jsp and create jsp1 jsp2 jsp3 using include directive to include in each pages
+
+Create Age Calculator using jsp
+
+POJO :- class as attributes , constructor , getters and setters POJO - Plain old java object
+
+Configuration object - a object that provides the configuration of database.
+
+servletcontext
+
+DI :- Dependency Injection
+IOC :- inversion of control
+
+

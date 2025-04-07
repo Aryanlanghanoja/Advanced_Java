@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2acb1c15-679a-4c05-af72-cf87f8d03aa0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 3/Experiment_3/src/main/java/com/aryanlanghanoja/authentication/DOBAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 3/Experiment_3/src/main/webapp/DOB.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 3/Experiment_3/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 3/Experiment_3/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/src/main/java/Practicle_4/ConServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/src/main/java/Practicle_4/DBTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/src/main/webapp/CV.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 4/Experimet_4/src/main/webapp/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/src/main/java/Practicle_5/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/src/main/java/Practicle_5/XMLHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 5/Experiment_5/src/main/webapp/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 7/Experiment_7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 7/Experiment_7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 7/Experiment_7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 7/Experiment_7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 7/Experiment_7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 7/Experiment_7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 7/Experiment_7/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Experiment - 7/Experiment_7/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/.idea/Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/src/main/webapp/GST_Calc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/src/main/webapp/Result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/GST_Calculator/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/src/main/java/org/example/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Hibernate_Test/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/java/APITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/java/mySessiontest/ServletHOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/java/mySessiontest/ServletHThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/java/mySessiontest/ServletHTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/java/myweb/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/java/myweb/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/java/myweb/Logout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/My_App/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/filters/MyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/filters/TestFilterServletFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/filters/TestFilterServletSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/filters/TestFilterServletThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/sessionpkg/ServletCookieFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/sessionpkg/ServletCookieSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/sessionpkg/ServletCookieThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/unnamed/PTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/useBeanTest/MyBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/useBeanTest/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/useBeanTest/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/java/com/aryanlanghanoja/useBeanTest/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/Age.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/Configure.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/Directive/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/Directive/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/Directive/Page1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/Directive/Page2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/Directive/Page3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/JSTL/Coretag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/dynamic.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/implicit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/jspactions/Date.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/jspactions/First.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/jspactions/Results.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/jspactions/bintest.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/jspactions/forwardtest.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/jspactions/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/jspactions/testparams.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/jspactions/validatelogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Advanced Java Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Advanced Java Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/92200133030_practical_1_aj.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/Experiment - 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/Experiment_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/Experiment_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/Experiment_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/Experiment_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/Experiment_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/Experiment_1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment-1/Experiment_1/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/JDBC_Test/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/JDBC_Test/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/Servlet_Life_Cycle/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Task.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sG09qOEcsToHW3EL7ziu7jyVAt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Task.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Aryan Data/Usefull Data/Semester - 6/Advanced_Java/Lab Manual/Experiment-1/Experiment_1/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2acb1c15-679a-4c05-af72-cf87f8d03aa0" name="Changes" comment="" />
+      <created>1738066457616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738066457616</updated>
+    </task>
+    <servers />
+  </component>
+</project>
