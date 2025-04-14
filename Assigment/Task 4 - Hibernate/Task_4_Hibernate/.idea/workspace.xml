@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2455474b-09a6-4565-b48b-216b956a8c8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Task 4 - Hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aryanlanghanoja/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aryanlanghanoja/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/aryanlanghanoja/models/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/aryanlanghanoja/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/.idea/Experiment - 13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/src/main/webapp/first.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/src/main/webapp/second.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 3/Experiment_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 3/Experiment_3/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2vf2WhP4ZAen5nuoyyGVC0vaxPF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2455474b-09a6-4565-b48b-216b956a8c8f" name="Changes" comment="" />
+      <created>1744521842787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744521842787</updated>
+    </task>
+    <servers />
+  </component>
+</project>
