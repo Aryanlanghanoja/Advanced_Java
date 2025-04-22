@@ -1,12 +1,13 @@
-package com.aryanlanhanoja.CourseApplication;
+package com.aryanlanghanoja.thymeleafdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CourseApplication {
+public class ThymeleafdemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CourseApplication.class, args);
+		SpringApplication.run(ThymeleafdemoApplication.class, args);
 	}
+
 }

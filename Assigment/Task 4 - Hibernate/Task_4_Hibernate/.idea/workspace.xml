@@ -5,38 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2455474b-09a6-4565-b48b-216b956a8c8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/logout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Task 3 - JSP/Task_3_JSP/src/main/webapp/welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/Task 4 - Hibernate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aryanlanghanoja/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aryanlanghanoja/models/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/aryanlanghanoja/models/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/aryanlanghanoja/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/.idea/Experiment - 13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/src/main/webapp/first.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 13/Experiement_13/src/main/webapp/second.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 1/Experiment_1/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 3/Experiment_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab Manual/Experiment - 3/Experiment_3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication/mycourse.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication/mycourse.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication/src/main/java/com/aryanlanhanoja/CourseApplication/CourseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication/src/main/java/com/aryanlanhanoja/CourseApplication/CourseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/src/main/java/com/aryanlanhanoja/CourseApplication_1/CourseApplication1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Spring Projects/CourseApplication_1/src/test/java/com/aryanlanhanoja/CourseApplication_1/CourseApplication1ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Task.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,26 +34,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2vf2WhP4ZAen5nuoyyGVC0vaxPF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

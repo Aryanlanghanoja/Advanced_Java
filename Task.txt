@@ -33,3 +33,11 @@ grading of the students
 less fail
 
 IOC :- inverse of control.
+
+
+manage customer support with following functionalities
+1) Based on category customer can raise issue / request
+2) Base on availability of employees assign issue or request to employees based on category preference
+3) Employees will update the status based on the current status to admin
+4) admin will chose to display these comments to customers or not
+5) generate report
